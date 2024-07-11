@@ -38,7 +38,7 @@ In this section I will list my data analytic projects and describe the technolog
 
 ## Education
 The Open University United Kingdom:
-Master of science - MS, Economics
+Master of science - MS, Global Development
 October 2024 - 2026
 
 Manchester Metropolitan University:
