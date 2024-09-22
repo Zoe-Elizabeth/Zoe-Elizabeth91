@@ -30,7 +30,7 @@ In this section I will list my data analytic projects and describe the technolog
 
 **Description**: The project focused on analyzing the bill and flipper lengths of three different species of penguins.
 
-**Skills**: scatterplot, grid colour, grid background.
+**Skills**: Scatterplot, Grid colour, Grid background.
 
 **Technology**: Python, Pandas, Seaborn and Matplotlib.pyplot
 
