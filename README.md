@@ -26,7 +26,7 @@ In this section I will list my data analytic projects and describe the technolog
 ### Analyzing the Spanish tourism system
 **Code**: [`Spanish-tourism.ipynb`](https://github.com/Zoe-Elizabeth/Zoe-Elizabeth91/blob/main/Spanish-tourism.ipynb)
 
-**Goal**: To determine the importance of tourism sector in Spain.
+**Goal**: To determine the importance of the tourism sector in Spain.
 
 **Description**: The project focused on analyzing the bill and flipper lengths of three different species of penguins.
 
